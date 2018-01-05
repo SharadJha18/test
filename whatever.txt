@@ -1,2 +1,5 @@
 Magic
 and world
+data structures
+algorithmss
+operating system
